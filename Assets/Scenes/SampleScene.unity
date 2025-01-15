@@ -851,7 +851,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbae04fd62c7545feb01998e36156923, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sphereRigidbody: {fileID: 0}
+  sphereRigidbody: {fileID: 438082827}
   ballSpeed: 2
 --- !u!114 &438082829
 MonoBehaviour:
